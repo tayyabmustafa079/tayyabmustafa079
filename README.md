@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tayyab Mustafa.
 - 👀 A Tech Enthusiast.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently working as a Data Analysis.
 - 💞️ I’m looking to collaborate on data field projects.
 - such as Data Manipulation, Data Modeling, Data Visualization and Data Analysis.
-- 📫 Reach me out at " mrtayyab079@gmail.com ".
+- 📫 Reach me out at " tayymus@gmail.com ".
 
 <!---
 tayyabmustafa079/tayyabmustafa079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
